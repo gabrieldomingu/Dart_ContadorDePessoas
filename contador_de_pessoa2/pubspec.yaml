@@ -8,6 +8,8 @@ environment:
 
 dependencies:
   flutter:
+    assets:
+        - assets/image/image.jfif
     sdk: flutter
 
 dev_dependencies:
